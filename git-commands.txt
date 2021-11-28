@@ -15,3 +15,5 @@ To link a remote repository with a local one - write git remote add origin <addr
 To see a list of remote repositories - write git remote --v
 
 To upload the code to a remote repository - write git push origin master
+
+To pull code from a remote repository - write git pull origin master
