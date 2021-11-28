@@ -1,13 +1,12 @@
-Для инициализации репозитория - пишем git init .
+To initialize the repository - write git init.
 
-Чтобы понять текущее состояние репозитория - пишем git status
+To understand the current state of the repository - write git status
 
-Чтобы добавить файл в staging area - пишем git add <имя файла>
+To add a file to the staging area - write git add <file name>
 
-Чтобы сделать commit - пишем git commit -m "Описания коммита"
+To make a commit, write git commit -m "Commit Descriptions"
 
-Чтобы посмотреть историю клммитов - пишем git log
+To see the history of commits - write git log
 
-Чтобы перейти к конкретному коммиту - пишем git checkout <hash>
+To jump to a specific commit, write git checkout <hash>
 
-Чтото непонятное происходит
