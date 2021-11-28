@@ -10,3 +10,8 @@ To see the history of commits - write git log
 
 To jump to a specific commit, write git checkout <hash>
 
+To link a remote repository with a local one - write git remote add origin <address>
+
+To see a list of remote repositories - write git remote --v
+
+To upload the code to a remote repository - write git push origin master
